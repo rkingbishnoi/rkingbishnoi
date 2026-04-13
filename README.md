@@ -36,12 +36,3 @@
 </p>
 
 ---
-
-## 🚀 About Me
-
-- Full Stack Laravel Developer
-- Building scalable web apps and admin panels
-- Experienced with APIs, dashboards, payment integrations, and custom business systems
-- Focused on clean code and production-ready solutions
-
----
