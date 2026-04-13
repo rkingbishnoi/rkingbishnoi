@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-4CAF50?style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/rkingbishnoi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:rkingbishnoi@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge" />
   </a>
 </p>
@@ -45,9 +45,3 @@
 - Focused on clean code and production-ready solutions
 
 ---
-
-## 📫 Contact
-
-- Portfolio: [your site]()
-- LinkedIn: [your linkedin](https://www.linkedin.com/in/rkingbishnoi/)
-- Email: rkingbishnoi@gmail.com
